@@ -2,4 +2,4 @@ Hi, Lets Start
 
 Author : Jasvinder Thakur
 
-Name : Jassi
+Nic Name : Jassi
